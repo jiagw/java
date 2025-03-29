@@ -106,7 +106,7 @@ cat.age;
 cat.color;
 
 ```java
-Person p1=new Person0;
+Person p1=new Person();
 p1.age=10;
 p1.name="小明";
 Person p2=p1;//把p1赋给了p2，让p2指向p1
